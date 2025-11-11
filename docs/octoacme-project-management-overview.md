@@ -18,6 +18,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: designs user experiences and validates usability.
+- QA Automation Engineer: builds and maintains automated test frameworks.
+- Release Manager: coordinates release cycles, deployments, and release communications.
+- Stakeholder Advocate: represents stakeholder interests and maintains feedback loops.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts

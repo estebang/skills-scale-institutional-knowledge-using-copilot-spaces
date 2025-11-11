@@ -164,6 +164,54 @@ OctoAcme projects succeed through clear role definition and collaborative teamwo
 
 **Communication**: Monthly updates, milestone reviews, ad-hoc escalations.
 
+### UX Designer
+
+**Focus**: Design user-centered experiences and validate usability.
+
+**Key Responsibilities**:
+- Develop wireframes, mockups, and user flows
+- Conduct user research and usability testing
+- Validate that features meet usability standards
+- Collaborate with Product Managers and Developers on user-centered solutions
+
+**Communication**: Design reviews, usability testing sessions, stakeholder presentations.
+
+### QA Automation Engineer
+
+**Focus**: Build and maintain automated test frameworks for software reliability.
+
+**Key Responsibilities**:
+- Design and maintain automated test suites
+- Collaborate with Developers to improve code testability
+- Integrate tests into CI/CD pipelines
+- Track and report quality metrics
+
+**Communication**: Sprint planning, test reports, CI/CD dashboards, collaboration with Developers.
+
+### Release Manager
+
+**Focus**: Coordinate release cycles and ensure safe, predictable deployments.
+
+**Key Responsibilities**:
+- Plan and schedule release cycles
+- Coordinate release activities across teams
+- Document release notes and rollback plans
+- Monitor post-deployment and coordinate incident response
+
+**Communication**: Release planning meetings, release announcements, post-deployment updates.
+
+### Stakeholder Advocate
+
+**Focus**: Liaison between project teams and business/user stakeholders.
+
+**Key Responsibilities**:
+- Maintain relationships with key stakeholders
+- Solicit and compile stakeholder feedback
+- Represent stakeholder interests in planning
+- Track stakeholder satisfaction and engagement
+
+**Communication**: Stakeholder feedback sessions, monthly updates, ad-hoc communications.
+
 📄 **Detailed Guide**: [Roles & Personas](octoacme-roles-and-personas.md)
 
 ## Workflows & Communication
@@ -279,6 +327,8 @@ Throughout the project lifecycle, we maintain several important artifacts:
 - **Risk Register**: Identified risks, impacts, and mitigation plans
 - **Retrospective Notes**: Learnings and action items from each retrospective
 - **Release Notes**: Changes, migration steps, and known issues for each release
+- **Stakeholder Feedback Log**: Track stakeholder input and concerns throughout the project ([Template](octoacme-stakeholder-feedback-log.md))
+- **Usability Validation Checklist**: Ensure user-facing features meet usability standards ([Checklist](octoacme-usability-validation-checklist.md))
 
 ## Getting Started
 
@@ -316,6 +366,7 @@ Throughout the project lifecycle, we maintain several important artifacts:
 
 ## Additional Resources
 
+### Core Process Guides
 - [Project Management Overview](octoacme-project-management-overview.md) - High-level summary
 - [Roles & Personas](octoacme-roles-and-personas.md) - Detailed role definitions
 - [Project Initiation](octoacme-project-initiation.md) - Starting new projects
@@ -324,6 +375,10 @@ Throughout the project lifecycle, we maintain several important artifacts:
 - [Release & Deployment](octoacme-release-and-deployment.md) - Going to production
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning and improving
 - [Risk Management & Communication](octoacme-risks-and-communication.md) - Managing risks and stakeholder communication
+
+### Templates & Checklists
+- [Stakeholder Feedback Log](octoacme-stakeholder-feedback-log.md) - Track stakeholder input throughout the project
+- [Usability Validation Checklist](octoacme-usability-validation-checklist.md) - Ensure user-facing features meet usability standards
 
 ---
 
