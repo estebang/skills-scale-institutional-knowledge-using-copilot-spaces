@@ -20,8 +20,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
+- Automated test suites maintained by QA Automation Engineers
+- Test coverage metrics tracked and reviewed in sprint reviews
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Usability validation by UX Designer for user-facing features
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -36,5 +39,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
+- [ ] Automated test coverage goals met
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Stakeholder feedback being collected and reviewed
+- [ ] UX design reviews conducted for user-facing changes

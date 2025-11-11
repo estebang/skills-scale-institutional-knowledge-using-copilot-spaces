@@ -21,8 +21,10 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Stakeholder Advocate maintains relationships and facilitates regular feedback
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Coordinate stakeholder demos and review sessions through Stakeholder Advocate
 
 ## Communication Templates
 Weekly Status Template:

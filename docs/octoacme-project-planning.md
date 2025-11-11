@@ -15,6 +15,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Define UX design requirements and usability validation criteria
+8. Establish QA automation strategy and test coverage goals
+9. Coordinate with Release Manager on release timelines and deployment approach
+10. Set up stakeholder feedback mechanisms with Stakeholder Advocate
 
 ## Backlog Item Template
 - Title:
@@ -38,6 +42,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
+- [ ] Release timeline and milestones agreed with Release Manager
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] QA automation strategy and test coverage goals defined
+- [ ] UX design requirements and usability validation criteria established
+- [ ] Stakeholder feedback mechanisms set up

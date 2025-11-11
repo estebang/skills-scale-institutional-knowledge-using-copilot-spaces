@@ -11,17 +11,21 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
-- Release notes drafted
+- Automated test suites executed successfully by QA Automation Engineer
+- Release notes drafted by Release Manager
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Stakeholder communication plan prepared by Stakeholder Advocate
 
 ## Deployment Checklist
-- [ ] Deployment window scheduled (if needed)
+- [ ] Deployment window scheduled (if needed) with Release Manager
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
+- [ ] QA Automation Engineer verifies automated test results
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
-- [ ] Announce release to stakeholders and support
+- [ ] Announce release to stakeholders and support (coordinated by Release Manager)
+- [ ] Stakeholder Advocate confirms stakeholder notification complete
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
